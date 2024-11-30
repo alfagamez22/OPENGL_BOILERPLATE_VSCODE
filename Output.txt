@@ -1,0 +1,23 @@
+GLEW initialized successfully
+Log file created at: c:\Users\buanh\Documents\VSCODE_SAVES\OpenGL\mingw32\bin\opengl_cleanup.log
+02:12:37 AM: OpenGL resources initialized successfully
+02:12:37 AM: Application starting Now...
+02:12:39 AM: Paused.
+02:12:39 AM: Application Exited by user.
+
+02:12:39 AM: Pyramid VBO resources successfully deleted.
+
+02:12:39 AM: Pyramid texture successfully deleted.
+
+02:12:39 AM: Sun VBO resources successfully deleted.
+
+02:12:39 AM: Texture resources successfully deleted.
+
+02:12:39 AM: Render Cube with Grid VBO resources successfully deleted.
+
+02:12:39 AM: OpenGL context cleaned up.
+02:12:39 AM: Closing log file.
+Log file created at: c:\Users\buanh\Documents\VSCODE_SAVES\OpenGL\mingw32\bin\opengl_cleanup.log
+02:12:39 AM: Resources are not initialized or have already been cleaned up.
+
+02:12:39 AM: Closing log file.
